@@ -3,7 +3,7 @@
 # 64 subjects
 # 58 instruments
 
-
+### 150220 - starting work on secondpass keyword mapping
 
 #install.packages("reshape")
 #install.packages("igraph")
